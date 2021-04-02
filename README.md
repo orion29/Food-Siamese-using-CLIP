@@ -7,7 +7,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 
 ### Approach
 
-![CLIP](CLIP.png)
+<img src="https://github.com/openai/CLIP/blob/main/CLIP.png"/>
 
 ## Data
 <img src="https://github.com/orion29/Food-Siamese-using-CLIP/blob/main/Images/Unknown-2.png"/>
