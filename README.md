@@ -2,3 +2,6 @@
 
 ## Data
 <img src="https://github.com/orion29/Food-Siamese-using-CLIP/blob/main/Images/Unknown-2.png"/>
+
+## Predictions
+<img src="https://github.com/orion29/Food-Siamese-using-CLIP/blob/main/Images/Unknown-3.png"/>
